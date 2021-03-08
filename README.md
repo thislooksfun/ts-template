@@ -76,5 +76,5 @@ To use this template:
 ## Installation
 
 ```
-npm i -D <name>
+npm i <name>
 ```
