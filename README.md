@@ -8,6 +8,8 @@ To use this template:
 1. Replace all occurrences of `<name>`, `<desc>` and `<year>` with the name,
    description, and year, respectively.
 1. Rename the `_github` directory to `.github`.
+1. When you are ready to enable automatic releases, remove the `false &&` from
+   line 26 of `.github/workflows/test-and-release.yaml`.
 
 <p align="center">
   <a href="https://github.com/semantic-release/semantic-release"
